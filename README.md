@@ -9,7 +9,7 @@ Sou Estudante de Ciencias da Computação na UNICEUB
 
 
 ## Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-oliveira)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-oliveira-374230350/)
 [![Intagram](https://img.shields.io/badge/intagram-0A66C2?style=for-the-badge&logo=instagram)](https://www.instagram.com/kaka_olv_/)
 [![Gmail](https://img.shields.io/badge/Gmail-366?style=for-the-badge&logo=gmail&logoColor=red)](emailto:kaka.omq@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5561986117726)
