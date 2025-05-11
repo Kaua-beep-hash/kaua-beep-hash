@@ -5,13 +5,7 @@ Sou João Marcelus, tenho um apreço muito grande por tecnologia, pois, ja tenho
 Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu curso tecnico em Programador Web
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![VS](https://img.shields.io/badge/VSCode-000.svg?style=for-the-badge&logo=open&logoColor=30A3DC)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white))
 
 
 ## Conecte-se comigo
