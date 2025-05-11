@@ -5,7 +5,7 @@ Sou Kauã Oliveira, tenho um apreço muito grande por tecnologia, pois, ja tenho
 Sou Estudante de Ciencias da Computação na UNICEUB
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white))
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## Conecte-se comigo
