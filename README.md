@@ -1,6 +1,6 @@
 ## Meu nome é Kaua
 ## Sobre mim
-Sou João Kauã Oliveira, tenho um apreço muito grande por tecnologia, pois, ja tenho interação com ela desde mais novo, tenho conhecimento por em quanto nas linguagens de programação(html,C), tenho interesse na area CyberSegurança e eu estou estudando para poder dominar essa area e poder desfrutar e criar novas coisas a partir dela, busco ficar fluente em inglês, pretento alcançar a fluência.
+Sou Kauã Oliveira, tenho um apreço muito grande por tecnologia, pois, ja tenho interação com ela desde mais novo, tenho conhecimento por em quanto nas linguagens de programação(html,C), tenho interesse na area CyberSegurança e eu estou estudando para poder dominar essa area e poder desfrutar e criar novas coisas a partir dela, busco ficar fluente em inglês, pretento alcançar a fluência.
 
 Sou Estudante de Ciencias da Computação na UNICEUB
 ## Habilidades
